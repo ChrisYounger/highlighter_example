@@ -1,0 +1,17 @@
+<form script="example.js">
+  <label>Highlighter example</label>
+  <row>
+    <panel>
+      <html>
+        <div class="search_query_box" style="height:350px"/>
+      </html>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <html>
+        Token: $$query$$ = $query$
+      </html>
+    </panel>
+  </row>
+</form>
